@@ -8,8 +8,5 @@ public class FinalsTetris {
     // Menu menu = new Menu();  
      //MainScreen game = new MainScreen();
     Menu menu = new Menu();
-       
-    
-      
     }
 }
